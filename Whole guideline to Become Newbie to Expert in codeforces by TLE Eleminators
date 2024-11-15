@@ -1,0 +1,22 @@
+1) Topic for newbie:
+learn time & space complexity, STL, HCF,LCM,PRIMES,DIVISORS,MULTIPLES Etc TYPES MATHS,Modular Arithmetic, Recurstion.
+
+2)Tips for Newbie: 
+i) Don't run after topics
+ii)Focus on Building implementation skills.
+iii)Don't get disheartened(hotash hobena).
+
+3)Topic for Pupil:
+Advanced Binary search with monotonic function, level up Number theory(seive,Euclidean Algorithm***),advanced Prefix sum(with proper problem solving skill),Master standard Greedy Algorithm,Solve a lot of non-standard greedy algorithmic problems, Master in Bit manipulation.
+
+4)Tips for Pupil:
+i)get into the habit of solving ad-hoc problem.select random problem and then try to solve this.
+ii)Get into the habit of Upsolving contests.
+iii)Give enough contests.Because,Learning a Topic is not enough,you need to solve problems on it.
+
+5)Topic for specialist: You should learn Two pointers and Sliding Windows,Advanced and Higher Number theory(Fermat's & Euler's Theorem),Modular inverse and Combinatorics,spend lot of time on Dynamic Programming***(Solve 50-100problem:1600-1700rating cf problems),DP with Bitmask, Learn very Advanced Graph problems(dfs,bfs,connected components,Diastra),Trees(basic subtree precomputation,Binary  lifting),Learn Segment Tree(sparse tables/fenwick trees).
+
+6)Tips for specialist:
+i)Start proving your approaches.
+ii)Start Reading codeforces Blogs or other platform.(get improving habit of reading).
+iii)Avoid learning Irrelevant topics.
